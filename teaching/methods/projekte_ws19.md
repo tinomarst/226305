@@ -4,7 +4,7 @@ bitte tragen Sie den Link auf Ihr Github-Projekt nach folgenden Muster in das Do
 
 * [Projekt Studierende](https://github.com/hdm-crpr/226305/tree/master/data/crpr)
 * [Ihr Projekt](https://github.com/hdm-crpr/226305/tree/master/data/crpr)
-* [Projekt Studierende](https://github.com/hdm-crpr/226305/tree/master/data/crpr)
+* [Disney Pixar](https://github.com/tinomarst/pixar-226305/tree/master/daten)
 * [Projekt Studierende](https://github.com/hdm-crpr/226305/tree/master/data/crpr)
 * [Projekt Studierende](https://github.com/hdm-crpr/226305/tree/master/data/crpr)
 * [Projekt Studierende](https://github.com/hdm-crpr/226305/tree/master/data/crpr)
